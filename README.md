@@ -1,6 +1,6 @@
 # EHR-data
 Visualization of EHR data
-Based on the code provided, it looks like a synthetic dataset of Electronic Health Records (EHR) has been loaded into a pandas dataframe, and some initial exploratory data analysis has been conducted.
+Based on the code provided, work on synthetic dataset of Electronic Health Records (EHR) has been loaded into a pandas dataframe, and some initial exploratory data analysis has been conducted.
 
 First, the EHR data for a specific patient has been selected and plotted as a patient trajectory over time, showing the medications they have been prescribed.
 
